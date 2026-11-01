@@ -1,0 +1,12 @@
+# kit state - these hold YOUR tokens/urls, never commit them
+config.json
+siacode.env
+molab_creds.json
+molab_keeper.health
+molab_keeper.log
+.claude-home/
+proxy_log/
+__pycache__/
+*.pyc
+ngrok_token.txt
+molab_proxy*.exe
